@@ -10,5 +10,10 @@ int a = token.IndexOf('(');
 int b = token.IndexOf(')');
 if (a >= 0 && b > a)
 {
+string placeholder = token.Substring(a + 1, b - a - 1);
+Console.Write("Enter " + placeholder + ": ");
+string answer = Console.ReadLine();
+if (string.IsNullOrWhiteSpace(answer)) answer = "something";
+string after = "";
 
 

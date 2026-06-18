@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-6-mad-libs-1-LoganPhillips62")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7adf7bed038f9f189c17272bedd032bf29cb62c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35db95283616ef41000e4add0ec493e382c4993f")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-6-mad-libs-1-LoganPhillips62")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-6-mad-libs-1-LoganPhillips62")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

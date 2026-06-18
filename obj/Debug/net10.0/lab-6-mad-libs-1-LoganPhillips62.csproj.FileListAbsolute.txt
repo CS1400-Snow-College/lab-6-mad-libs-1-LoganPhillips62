@@ -1,0 +1,15 @@
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\bin\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.exe
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\bin\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.deps.json
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\bin\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.runtimeconfig.json
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\bin\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.dll
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\bin\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.pdb
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.AssemblyInfoInputs.cache
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.AssemblyInfo.cs
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.csproj.CoreCompileInputs.cache
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.sourcelink.json
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.dll
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\refint\lab-6-mad-libs-1-LoganPhillips62.dll
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.pdb
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\lab-6-mad-libs-1-LoganPhillips62.genruntimeconfig.cache
+C:\Users\phill\Code\lab-6-mad-libs-1-LoganPhillips62\obj\Debug\net10.0\ref\lab-6-mad-libs-1-LoganPhillips62.dll
